@@ -1,6 +1,6 @@
 # curso-java-basico
 
-Neste repositório será armazenado meus estudos sobre a linguagem de programação Java em sua versão SE (Standard Edition). Os códigos aqui armazenados fazem parte do estudo básico desta tecnologia.
+Neste repositório será armazenado meus estudos sobre a linguagem de programação Java em sua versão SE (Standard Edition). Os códigos aqui armazenados fazem parte do estudo básico desta tecnologia. 
 
 ## Links úteis do Java
 
