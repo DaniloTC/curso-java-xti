@@ -60,7 +60,7 @@ public class TesteOperadorIncrementoDecremento {
 		
 		// Decremento
 		int yy = 5;
-		System.out.println("yy = " + ++yy); // Output: 4
+		System.out.println("yy = " + --yy); // Output: 4
 	}
 }
 ```
