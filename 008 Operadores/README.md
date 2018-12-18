@@ -75,7 +75,7 @@ __Exemplo:__
 
 ## 6. Operador de inversão: ~
 
-Conhecido como ```Betwise Inversion Operator``` (operador de inversão de bits) converte todos os bits 1 em 0 e todos os bit 0 em 1.
+Conhecido como ```Betwise Inversion Operator``` (operador de inversão de bits) converte todos os bits 1 em 0 e todos os bits 0 em 1.
 
 __Observação:__ Para obtenção do resultado da inversão bit a bit de um número inteiro basta somar um e inverter o sinal.
 
