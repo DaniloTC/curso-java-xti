@@ -83,6 +83,8 @@ __Exemplo:__
 * int resultado = ~7   ==> resultado = 7 + 1 invertendo o sinal = -8
 * int resultado = ~-19 ==> resultado = -19 + 1 invertendo o sinal = 18
 
+## Principais Operadores
+
 Operadores|Finalidade|
 ----------|----------|
 | ```+,-,*,/,%``` |Soma, subtrai, multiplica, divide, resto da divisão|
