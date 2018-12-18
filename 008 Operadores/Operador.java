@@ -44,7 +44,17 @@ public class Operador {
 		  2 + 3
 		  
 		  EXEMPLO DE OPERADOR UNARIO
-		  Aqui um operador modifica um operando para positivo ou negativo
+		  São operadores que envolvem apenas um operador, diferente da maioria dos
+		  operadores, que envolvem dois operandos.
+		  -------------------------
+		  Negação               !
+		  Pré e pós incremento  ++
+		  Pre é pós decremento  --
+		  Sinal positivo        +
+		  Sinal negativo        -
+		  Inversão de bits      ~
+		  Cast                  ()
+		  -------------------------
 		  -2
 		  
 		  EXEMPLO DE OPERADOR TERNARIO
