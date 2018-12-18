@@ -15,7 +15,7 @@ Inversão de bits|~|
 
 ## Operador de negação: !
 
-Conhecido como operador de ```negação``` ou ```complemento```, pois é utilizado para inverter o valor de uma expressão booleana. Então uma expressão !falsa resulta em true, enquanto a expressão !true resulta em false.
+Conhecido como operador de ```negação``` ou ```complemento```, pois é utilizado para inverter o valor de uma expressão booleana. Então uma expressão ```!falsa``` resulta em ```true```, enquanto a expressão ```!true``` resulta em ```false```.
 
 ```java
 public class TesteOperadorNot {
