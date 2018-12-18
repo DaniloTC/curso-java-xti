@@ -70,8 +70,8 @@ public class TesteOperadorIncrementoDecremento {
 Os operadores unários + e - representam positivo e negativo respectivamente. O operador + não tem outra função a não ser deixar explícito que um número é positivo.
 
 __Exemplo:__
-int x = -3;
-int z = +3; // z = 3 seria exatamenta igual.
+* int x = -3;
+* int z = +3; // z = 3 seria exatamenta igual.
 
 ## 6. Operador de inversão: ~
 
@@ -80,8 +80,8 @@ Conhecido como ```Betwise Inversion Operator``` (operador de inversão de bits) 
 __Observação:__ Para obtenção do resultado da inversão bit a bit de um número inteiro basta somar um e inverter o sinal.
 
 __Exemplo:__
-int resultado = ~7   ==> resultado = 7 + 1 invertendo o sinal = -8
-int resultado = ~-19 ==> resultado = -19 + 1 invertendo o sinal = 18
+* int resultado = ~7   ==> resultado = 7 + 1 invertendo o sinal = -8
+* int resultado = ~-19 ==> resultado = -19 + 1 invertendo o sinal = 18
 
 Operadores|Finalidade|
 ----------|----------|
