@@ -83,6 +83,32 @@ __Exemplo:__
 * int resultado = ~7   ==> resultado = 7 + 1 invertendo o sinal = -8
 * int resultado = ~-19 ==> resultado = -19 + 1 invertendo o sinal = 18
 
+```java
+public class TesteOperadorInversao {
+	public static void main(String[] args) {
+		
+		int i = 38;
+		System.out.println("38 invertido = " + ~i);
+		
+		i = -40;
+		System.out.println("-40 invertido = " + ~i);
+		
+		short s = 12;
+		// Sempre que aplicamos inversão de bits o resultado é promovido a int
+		
+		int shortInvertido = ~s;
+		System.out.println("12 invertido = " + shortInvertido);
+		
+		char c = 'a';
+		// sempre que aplicarmos inversão de bit o resultado é promovido a int
+		// neste caso, o caracter 'a' será promovido a int (97) antes da inversão
+		
+		int charInvertido = ~c;
+		System.out.println("'a' invertido = " + charInvertido);
+	}
+}
+```
+
 ## Principais Operadores
 
 Operadores|Finalidade|
