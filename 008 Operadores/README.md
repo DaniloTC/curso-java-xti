@@ -38,6 +38,33 @@ __Operadores de incremento podem ser:__
 * Pós-fixados: O incremento ou decremento é feito após o uso da variável nas outras expressões que envolvem a variável em questão.
 * Pré-fixados: O incremento ou decremento é realizado antes que a variável seja utilizada em qualquer operação.
 
+```java
+public class TesteOperadorIncrementoDecremento {
+	public static void main(String[] args) {
+		
+		/* Operadores pós-fixados */
+		
+		// Incremento
+		int i = 5;
+		System.out.println("i = " + i++); // Output: 5
+		
+		// Decremento
+		int y = 5;
+		System.out.println("y = " + y--); // Output: 5
+		
+		/* Operadores pré-fixados */
+		
+		// Incremento
+		int ii = 5;
+		System.out.println("ii = " + ++ii); // Output: 6
+		
+		// Decremento
+		int yy = 5;
+		System.out.println("yy = " + ++yy); // Output: 4
+	}
+}
+```
+
 Operadores|Finalidade|
 ----------|----------|
 | ```+,-,*,/,%``` |Soma, subtrai, multiplica, divide, resto da divisão|
