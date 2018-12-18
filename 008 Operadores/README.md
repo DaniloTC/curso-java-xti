@@ -4,16 +4,16 @@ Operadores unários são operadores que envolvem apenas um operando, diferenteme
 
 ## Operadores Unários
 
-Descrição|Operador|
----------|--------|
-Negação|!|
-Pré e pós incremento|++|
-Pré e pós decremento|--|
-Sinal positivo|+|
-Sinal negativo|-|
-Inversão de bits|~|
+N|Descrição|Operador|
+-|---------|--------|
+1|Negação|!|
+2|Pré e pós incremento|++|
+3|Pré e pós decremento|--|
+4|Sinal positivo|+|
+5|Sinal negativo|-|
+6|Inversão de bits|~|
 
-## Operador de negação: !
+## 1. Operador de negação: !
 
 Conhecido como operador de ```negação``` ou ```complemento```, pois é utilizado para inverter o valor de uma expressão booleana. Então uma expressão ```!falsa``` resulta em ```true```, enquanto a expressão ```!true``` resulta em ```false```.
 
@@ -30,7 +30,7 @@ public class TesteOperadorNot {
 }
 ```
 
-## Operador de incremento e decremento: ++, --
+## 2, 3. Operador de incremento e decremento: ++, --
 
 Os operadores "++" e "--" são chamados operadores de ```incremento``` e ```decremento``` respectivamente. Estes operadores modificam o valor de uma expressão adicionando ou subtraindo 1.
 
@@ -64,6 +64,24 @@ public class TesteOperadorIncrementoDecremento {
 	}
 }
 ```
+
+## 4, 5. Operadores de representação de sinal: + e -
+
+Os operadores unários + e - representam positivo e negativo respectivamente. O operador + não tem outra função a não ser deixar explícito que um número é positivo.
+
+__Exemplo:__
+int x = -3;
+int z = +3; // z = 3 seria exatamenta igual.
+
+## 6. Operador de inversão: ~
+
+Conhecido como ```Betwise Inversion Operator``` (operador de inversão de bits) converte todos os bits 1 em 0 e todos os bit 0 em 1.
+
+__Observação:__ Para obtenção do resultado da inversão bit a bit de um número inteiro basta somar um e inverter o sinal.
+
+__Exemplo:__
+int resultado = ~7   ==> resultado = 7 + 1 invertendo o sinal = -8
+int resultado = ~-19 ==> resultado = -19 + 1 invertendo o sinal = 18
 
 Operadores|Finalidade|
 ----------|----------|
