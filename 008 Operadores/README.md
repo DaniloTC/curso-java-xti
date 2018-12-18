@@ -4,7 +4,7 @@ Após olhar o código abaixo e o cógigo-fonte com alguns comentários sugiro qu
 
 Operadores|Finalidade|
 ----------|----------|
-|+,-,*,/,%|Soma, subtrai, multiplica, divide, resto da divisão|
+|```+,-,*,/,%```|Soma, subtrai, multiplica, divide, resto da divisão|
 |+|Concatena strings|
 |+,-|Operador unário mais e menos|
 |<,>,<=,>=|Comparar, menor que, maior que, menor ou igual, maior ou igual|
