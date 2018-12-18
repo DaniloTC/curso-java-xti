@@ -100,7 +100,7 @@ public class TesteOperadorInversao {
 		System.out.println("12 invertido = " + shortInvertido);
 		
 		char c = 'a';
-		// sempre que aplicarmos inversão de bit o resultado é promovido a int
+		// sempre que aplicarmos inversão de bits o resultado é promovido a int
 		// neste caso, o caracter 'a' será promovido a int (97) antes da inversão
 		
 		int charInvertido = ~c;
