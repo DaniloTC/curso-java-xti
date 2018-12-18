@@ -1,6 +1,6 @@
 ## Operadores
 
-Após olhar o código abaixo e o cógigo-fonte com alguns comentários sugiro que explore a documentação da linguagem Java para conhecer mais possibilidades que o pacote JOptionPane pode proporcionar.
+Segue abaixo uma tabela de operadores e a finalidade de cada um deles.
 
 Operadores|Finalidade|
 ----------|----------|
