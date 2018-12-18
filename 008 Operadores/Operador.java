@@ -1,5 +1,5 @@
 /**
- * Apresentando básica sobre operadores
+ * Apresentação básica dos Operadores
  * @author Danilo Trindade de Castro
  */
 public class Operador {
