@@ -1,7 +1,4 @@
-# Java Standard Edition
-_Este repositório está destinado ao armazenamento de códigos do curso básico de Java que estou acompanhando atualmente._
-
-## Primeiro Código
+## Meu Primeiro Código Java
 
 ```java
 public HelloWorld {
