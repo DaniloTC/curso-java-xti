@@ -1,9 +1,9 @@
 # Java Standard Edition
 _Este repositório está destinado ao armazenamento de códigos do curso básico de Java que estou acompanhando atualmente._
 
-> **Eu estou usando a versão [Java 8 JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (para acompanhar este curso).**
+> **Eu estou usando a versão [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) para acompanhar este curso.**
 
-Bem-vindo ao meu repositório de arquivos básicos sobre Java onde você encontrará os scripts desenvolvidos no decorrer do curso conforme vou avançando nas matérias **(vídeo-aulas).**
+Bem-vindo ao meu repositório de arquivos básicos sobre Java. Aqui você encontrará os scripts desenvolvidos no decorrer do curso conforme vou avançando nas aulas.
 
 ---
 
