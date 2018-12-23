@@ -1,4 +1,4 @@
-# curso-java-basico
+# Java Basico
 
 Neste repositório será armazenado meus estudos sobre a linguagem de programação Java em sua versão SE (Standard Edition). Os códigos aqui armazenados fazem parte do estudo básico desta tecnologia. 
 
