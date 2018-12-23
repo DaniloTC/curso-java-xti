@@ -4,6 +4,6 @@ Neste repositório será armazenado meus estudos sobre a linguagem de programaç
 
 ## Links úteis do Java
 
-* [Site oficial do Java]( https://www.oracle.com/)
-* [Download do Java]( http://www.oracle.com/technetwork/pt/java/javase/downloads/)
-* [Documentação do Java](http://www.oracle.com/technetwork/pt/java/javase/documentation/index.html)
+* [Site oficial]( https://www.oracle.com/)
+* [Download]( http://www.oracle.com/technetwork/pt/java/javase/downloads/)
+* [Documentação](http://www.oracle.com/technetwork/pt/java/javase/documentation/index.html)
