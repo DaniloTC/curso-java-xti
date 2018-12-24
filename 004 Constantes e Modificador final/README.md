@@ -1,6 +1,6 @@
 ## Constantes e Modificador final
 
-Para analisar mais detalhes sobre os tipos primitivos da linguagem Java veja os comentários que deixei no código-fonte. O é exatamente esse abaixo, porém no arquivo tem comentários com algumas informações importantes.
+Para analisar mais detalhes sobre os tipos primitivos da linguagem Java veja os comentários que deixei no código-fonte. O código é exatamente esse abaixo, porém no arquivo tem comentários com algumas informações importantes.
 
 ```java
 public class Variavel {
