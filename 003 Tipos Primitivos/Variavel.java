@@ -4,20 +4,6 @@
  */
 public class Variavel {
 	
-	/*
-		TIPOS PRIMITIVOS (Cronograma)
-		
-		. Tipos e Tamanhos
-		
-		  int    byte   short
-		  long   float  double
-		  char   void   boolean
-		
-		. Cast de Tipo
-		
-		. IEEE e Unicode
-	*/
-	
 	public static void main(String[] args) {
 		
 		/* TIPOS PRIMITIVOS */
