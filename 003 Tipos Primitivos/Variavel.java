@@ -103,10 +103,10 @@ public class Variavel {
 			binário.
 			
 			=======================================================================
-			| TIPO		VALOR BINARIO								 TAMANHO      |
-			| byte		0b01010101								8 bits  / 1 byte  |
-			| short		0b0101010101010101						16 bits / 2 bytes |
-			| int		0b01010101010101010101010101010101		32 bits / 4 bytes |
+			| TIPO		VALOR BINARIO                           TAMANHO           |
+			| byte		0b01010101                              8 bits  / 1 byte  |
+			| short		0b0101010101010101                      16 bits / 2 bytes |
+			| int		0b01010101010101010101010101010101      32 bits / 4 bytes |
 			=======================================================================
 		*/
 		
