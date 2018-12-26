@@ -103,5 +103,42 @@ public class Variavel {
 		System.out.println("byte  => " + varByteBinary);
 		System.out.println("short => " + varShortBinary);
 		System.out.println("int   => " + varIntBinary);
+		
+		/* UTILIZANDO O TIPO CHAR E UNICODE
+		   ===================================================================
+		   | 1. Cada char ocupa 2 bytes na memória.                          |
+		   | 2. São expressos incluindo o caractere entre aspas simples.     |
+		   | 3. Pode-se especificar o código "Unicode" usando quatro dígitos |
+		   | em exadecimal precedido de 'contrabarra u', com a expressão     |
+		   | entre aspas simples.                                            |
+		   |                                                                 |
+		   | EXEMPLO                                                         |
+		   | char meuChar = 'x';                                             |
+		   | char meuCharUnicode = '\u0040'; (0040 representa o símbolo @)   |
+		   ===================================================================
+		   | Fontes para conseguir códigos unicode para testar nos scripts   |
+		   | https://www.unicode.org/charts/                                 |
+		   | https://unicode-table.com/pt/                                   |
+		   ===================================================================
+		*/
+		
+		char meuCharTeclado  = 'x';
+		char meuCharUnicode1 = '\u0044';
+		char meuCharUnicode2 = '\u0041';
+		char meuCharUnicode3 = '\u004E';
+		char meuCharUnicode4 = '\u0069';
+		char meuCharUnicode5 = '\u004C';
+		char meuCharUnicode6 = '\u004F';
+		char meuCharUnicode7 = '\u0040';
+		
+		System.out.println("CHAR COM TECLADO E UNICODE");
+		System.out.println("Teclado => " + meuCharTeclado);
+		System.out.println("Unicode => " + meuCharUnicode1);
+		System.out.println("Unicode => " + meuCharUnicode2);
+		System.out.println("Unicode => " + meuCharUnicode3);
+		System.out.println("Unicode => " + meuCharUnicode4);
+		System.out.println("Unicode => " + meuCharUnicode5);
+		System.out.println("Unicode => " + meuCharUnicode6);
+		System.out.println("Unicode => " + meuCharUnicode7);
 	}
 }
