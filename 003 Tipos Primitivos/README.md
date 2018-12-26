@@ -7,4 +7,4 @@ Sugiro também que usem os links adicionados abaixo (e nos comentários do códi
 ### Links para Unicode
 
 * Encontre muitos unicodes em [Unicode Tabela de Caracteres](https://unicode-table.com/pt/)
-* Esse site também tem muitos [Code Charts[(https://www.unicode.org/charts/)
+* Esse site também tem muitos [Code Charts](https://www.unicode.org/charts/)
