@@ -1,6 +1,5 @@
 /**
- * Entendendo o conceito de escopo e os locais de acesso
- * das variaveis
+ * Entendendo o conceito de escopo e os locais de acesso das variaveis
  * @author Danilo Trindade de Castro
  */
 public class Escopo {
