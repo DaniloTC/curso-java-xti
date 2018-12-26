@@ -9,7 +9,7 @@ public class Variavel {
 		/* TIPOS PRIMITIVOS */
 		
 		int idade      = 31;
-		char sexo      = 'M'; //Unicode
+		char sexo      = 'M'; //Teclado ou caracteres Unicode
 		double preco   = 12.45;
 		boolean casado = true;
 		
@@ -113,7 +113,7 @@ public class Variavel {
 		   | entre aspas simples.                                            |
 		   |                                                                 |
 		   | EXEMPLO                                                         |
-		   | char meuChar = 'x';                                             |
+		   | char meuCharTeclado = 'x';                                      |
 		   | char meuCharUnicode = '\u0040'; (0040 representa o símbolo @)   |
 		   ===================================================================
 		   | Fontes para conseguir códigos unicode para testar nos scripts   |
