@@ -1,4 +1,4 @@
-## Constantes e Modificador final
+## Wrapper Class
 
 Para analisar mais detalhes sobre as Classes Wrapper da linguagem Java veja os comentários que deixei no código-fonte. O código é simples, porém no arquivo chegou a 119 linhas porque tem  vários comentários com informações importantes.
 
