@@ -1,4 +1,4 @@
-## Entrada de Dados com Scanner
+## Entrada de Dados com JOptionPane
 
 Após olhar o código abaixo e o cógigo-fonte com alguns comentários sugiro que explore a documentação da linguagem Java para conhecer mais possibilidades que o pacote JOptionPane pode proporcionar.
 
