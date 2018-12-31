@@ -26,7 +26,7 @@ public class Operador {
 		double x9  = 7;     //variavel declarada e com valor atribuido
 		double x10 = 7;     //variavel declarada e com valor atribuido
 		++x9;               //pré-incremento em +1 na variavel 'x9'
-		--x10;              //pós-decremento em -1 na variavel 'x10'
+		--x10;              //pré-decremento em -1 na variavel 'x10'
 		
 		//Imprimindo os resultados
 		System.out.println(x1);
