@@ -2,7 +2,7 @@ public class Operador {
 	/*
 	  OPERADORES MATEMATIVOS
 	  
-	    +      Adição
+		+      Adição
 		-      Subtração
 		*      Multiplicação
 		/      Divisão
@@ -25,7 +25,7 @@ public class Operador {
 		//Declarando, incremento e decremento os valores
 		double x9  = 7;     //variavel declarada e com valor atribuido
 		double x10 = 7;     //variavel declarada e com valor atribuido
-		++x9;               //decrementa +1 na variavel 'x9'
+		++x9;               //incrementa +1 na variavel 'x9'
 		--x10;              //decrementa -1 na variavel 'x10'
 		
 		//Imprimindo os resultados
