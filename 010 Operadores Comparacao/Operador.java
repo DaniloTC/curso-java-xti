@@ -15,8 +15,16 @@ public class Operador {
         */
         
         int x = 6;
-        x == 6;
+        int y = 5;
+        Integer z = 6; // Melhoria da versão 7
 
-        System.out.println();
+        System.out.println(x == y);
+        System.out.println(x != y);
+        System.out.println(x > y);
+        System.out.println(x < y);
+        System.out.println(x >= y);
+        System.out.println(x <= y);
+        System.out.println(z instanceof Integer);      // Compara objetos
+        System.out.println("texto" instanceof String); // Compara objetos
     }
 }
