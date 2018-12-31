@@ -2,7 +2,6 @@
 
 Não há muito segredos sobre o uso dos operadores matemáticos, pois já utilizamos muito durando nossa vida na escola... portanto, para praticar e fixar alguns conceitos sobre o Java é sempre bom praticar, praticar e praticar mais um pouco.
 
-__Operadores__
 Operador|Função|
 --------|------|
 +|Adição|
