@@ -13,14 +13,14 @@ public class Operador {
 	*/
 	public static void main(String[] args) {
 		//Declarando as variáveis
-		double x1  = 7 + 3; //soma
-		double x2  = 7 - 3; //subtrai
-		double x3  = 7 * 3; //multiplica
-		double x4  = 7 / 3; //divide
-		double x5  = +7;    //afirma que o número é positivo
-		double x6  = -7;    //inverte o sinal
-		double x7  = -(+7); //regra matemática
-		double x8  = 7 % 2; //resto da divisão
+		double x1 = 7 + 3; //soma
+		double x2 = 7 - 3; //subtrai
+		double x3 = 7 * 3; //multiplica
+		double x4 = 7 / 3; //divide
+		double x5 = +7;    //afirma que o número é positivo
+		double x6 = -7;    //inverte o sinal
+		double x7 = -(+7); //regra matemática
+		double x8 = 7 % 2; //resto da divisão
 		
 		//Declarando, incremento e decremento os valores
 		double x9  = 7;     //variavel declarada e com valor atribuido
