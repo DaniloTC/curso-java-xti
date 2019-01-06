@@ -1,11 +1,15 @@
+import javax.swing.JOptionPane;
+
 /**
  * Calcular o IMC
  * IMC = pesoEmQuilogramas / (alturaEmMetros * alturaEmMetros)
  * @author Danilo Trindade de Castro
- * @version 1.0
+ * @version 2.0
  */
 public class IMC {
     public static void main(String[] args) {
+        String peso = JOptionPane.showInputDialog("Qual seu Peso em Quilogramas? ");
+        String altura = JOptionPane.showInputDialog("Qual sua Altura em Metros? ");
         /*
             CALCULO DO IMC
             INDICE DE MASSA CORPORAL
@@ -20,11 +24,11 @@ public class IMC {
             40-50  :  Obesidade Mórbida
             > 50   :  Super-Obesidade
         */
-        double pesoEmQuilogramas = 70.0;
-        double alturaEmMetros = 1.76;
+        double pesoEmQuilogramas = Double.parseDouble(peso); //conversão estática (String to double)
+        double alturaEmMetros = Double.parseDouble(altura); //conversão estática (String to double)
         double imc = pesoEmQuilogramas / (alturaEmMetros * alturaEmMetros);
         String msg = (imc >= 20 && imc <= 25) ? "Peso Ideal" : "Fora do Peso Ideal";
-        System.out.println("IMC = " + imc);
-        System.out.println(msg);
+        msg = "IMC = " + imc + "\n" + msg;
+        JOptionPane.showMessageDialog(null, msg);
     }
 }
