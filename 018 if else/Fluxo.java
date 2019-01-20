@@ -2,7 +2,7 @@ public class Fluxo
 {
     public static void main(String[] args) 
     {
-        boolean passou = true;
+        boolean passou = true; 
         if(passou) {
             System.out.println("Aprovado");
         }
